@@ -1,4 +1,4 @@
-# open_door_day
+# Open-Door Day
 YouBot-Demonstration für den Tag der offenen Tür
 
 ## ROS-Master starten
